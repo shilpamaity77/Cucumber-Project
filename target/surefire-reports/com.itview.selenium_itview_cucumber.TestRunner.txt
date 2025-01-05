@@ -1,0 +1,104 @@
+-------------------------------------------------------------------------------
+Test set: com.itview.selenium_itview_cucumber.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 4, Skipped: 0, Time elapsed: 12.19 s <<< FAILURE! -- in com.itview.selenium_itview_cucumber.TestRunner
+Calculator Functionality. #1 -- Time elapsed: 0.089 s <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step "Application url for testing" is undefined. You can implement it using the snippet(s) below:
+
+@Given("Application url for testing")
+public void application_url_for_testing() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Some other steps were also undefined:
+
+@When("User should enter two enter and perform Addition operation")
+public void user_should_enter_two_enter_and_perform_addition_operation() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("Result should get display and verify output value for Addition.")
+public void result_should_get_display_and_verify_output_value_for_addition() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Calculator Functionality. #2 -- Time elapsed: 0.016 s <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step "Application url for testing" is undefined. You can implement it using the snippet(s) below:
+
+@Given("Application url for testing")
+public void application_url_for_testing() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Some other steps were also undefined:
+
+@When("User should enter two enter and perform subtraction operation")
+public void user_should_enter_two_enter_and_perform_subtraction_operation() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("Result should get display and verify output value for subtraction  .")
+public void result_should_get_display_and_verify_output_value_for_subtraction() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Calculator Functionality. #3 -- Time elapsed: 0.005 s <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step "Application url for testing" is undefined. You can implement it using the snippet(s) below:
+
+@Given("Application url for testing")
+public void application_url_for_testing() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Some other steps were also undefined:
+
+@When("User should enter two enter and perform multiplication operation")
+public void user_should_enter_two_enter_and_perform_multiplication_operation() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("Result should get display and verify output value for multiplication .")
+public void result_should_get_display_and_verify_output_value_for_multiplication() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Calculator Functionality. #4 -- Time elapsed: 0.013 s <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step "Application url for testing" is undefined. You can implement it using the snippet(s) below:
+
+@Given("Application url for testing")
+public void application_url_for_testing() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Some other steps were also undefined:
+
+@When("User should enter two enter and perform division operation")
+public void user_should_enter_two_enter_and_perform_division_operation() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("Result should get display and verify output value for division .")
+public void result_should_get_display_and_verify_output_value_for_division() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
